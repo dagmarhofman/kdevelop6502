@@ -32,6 +32,16 @@ the CMake arguments.
 If you want to contribute to KDevelop, please read through:
 https://www.kdevelop.org/contribute-kdevelop
 
+### 6502 Fork
+
+I Forked this project because i'd like to add the following features:
+- 6502 Assembly syntax highlighting
+- The 6502 Assembler ( Cross-Assembler )
+- C Compiler
+- Emulation / Simulation 6502 ( Debugger )
+- HEX editor
+
+
 ## Development Infrastructure
 - [Bug tracker](https://bugs.kde.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=REOPENED&list_id=1777266&product=kdevelop&product=kdevplatform&query_format=advanced)
 - [KDE GitLab instance (code review as well as hosting and other important collaboration tasks)](https://invent.kde.org/kdevelop/kdevelop/-/merge_requests)
